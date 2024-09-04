@@ -1,0 +1,19 @@
+version: '3.6'
+
+services:
+  
+  mosquitto:  
+    environment:
+      - MOSQUITTO_USERNAME=ezm
+      - MOSQUITTO_PASSWORD=ezm12345
+    image: eclipse-mosquitto:latest
+    container_name: mqtt
+    restart: always
+    volumes:
+      - ./data:/mosquitto/data
+      - ./log:/mosquitto/log
+      - ./config:/mosquitto/config/
+    ports:
+      - "1883:1883"
+
+
