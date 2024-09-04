@@ -1,5 +1,5 @@
 # Diesel Pump IoT Project
-![alt text](<../IoT_Bomba/Grafana/Images/FinalDashboard.jpeg>)
+![Project Overview](<IoT_Tesis/IoT_Bomba/Grafana/Images/FinalDashboard.jpeg>)
 
 ## Project Description
 
