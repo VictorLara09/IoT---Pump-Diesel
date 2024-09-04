@@ -1,6 +1,5 @@
 # Diesel Pump IoT Project
-![Project Overview](https://github.com/VictorLara09/IoTPumpDiesel/commit/85c5d8dae3204aa203afe4697ef20bcb5bf785cf#diff-875a1cbdf01ea7ef145849629ddc75f64b8a8f30a12de840ec916a5cd3eabfac)
-
+![Project Overview](<IoT_Bomba/Images/FinalDashboard.jpeg>)
 ## Project Description
 
 The project involves a monitoring and control system for diesel pumps, utilizing IoT technologies to improve operational efficiency and ensure optimal performance.
