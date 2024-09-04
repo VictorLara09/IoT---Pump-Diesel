@@ -1,5 +1,5 @@
 # Diesel Pump IoT Project
-![Project Overview](<IoT_Tesis/IoT_Bomba/Images/FinalDashboard.jpeg>)
+![Project Overview](https://github.com/VictorLara09/IoTPumpDiesel/commit/85c5d8dae3204aa203afe4697ef20bcb5bf785cf#diff-875a1cbdf01ea7ef145849629ddc75f64b8a8f30a12de840ec916a5cd3eabfac)
 
 ## Project Description
 
