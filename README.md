@@ -1,5 +1,5 @@
 # Diesel Pump IoT Project
-![Dashboard Pump Diesel](<../Images/FinalDashboard.jpeg>)
+![alt text](<../Images/FinalDashboard.jpeg>)
 
 ## Project Description
 
