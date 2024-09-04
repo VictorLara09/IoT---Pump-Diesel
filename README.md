@@ -51,3 +51,4 @@ The project involves a monitoring and control system for diesel pumps, utilizing
 - **Anthony Lopez**
   - Email: [zzianthony532@gmail.com](mailto:zzianthony532@gmail.com)
   - GitHub: [andalope](https://github.com/andalope)
+  - LinkedIn: [Anthony Lopez](www.linkedin.com/in/anthony-lópez-uquillas-360208210)
